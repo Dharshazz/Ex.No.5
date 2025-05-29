@@ -10,7 +10,6 @@ To create a Repository
 
 # Output:
 ![image](https://github.com/user-attachments/assets/8472fa06-732a-4fcc-947d-534ed6c413a7)
-![image](https://github.com/user-attachments/assets/679bedd6-fc62-4386-a411-2de65227ad64)
 
 # Result:
 
